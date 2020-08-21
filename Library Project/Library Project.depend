@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1514294617 source:d:\library project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"STR.h"
+
+1514028082 d:\library project\str.h
+
+1514028376 d:\library project\forbook.h
+
+1514554353 source:d:\faculty of engineering\programming\final project library system\library project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"STR.h"
+
+1514028082 d:\faculty of engineering\programming\final project library system\library project\str.h
+
+1522598195 source:d:\faculty of engineering\3rd term\programming\final project library system\library project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"STR.h"
+
+1522598195 d:\faculty of engineering\3rd term\programming\final project library system\library project\str.h
+
